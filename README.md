@@ -9,11 +9,6 @@
    
   </a>
 
-<h3 align="center">Flipkart(Clone)</h3>
-
-  <p align="center">
-    This is our Construct week project in unit 4 at <a href="https://www.masaischool.com/"> Masai School </a> 
-    <br />
   
 </div>
 <br/>
