@@ -1,4 +1,4 @@
-# flipcart_clone-fronted
+# flipkart_clone-fronted
 
 <!-- PROJECT LOGO -->
 <br />
