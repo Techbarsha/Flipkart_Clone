@@ -31,8 +31,6 @@
       </ul>
     </li>
     <li><a href="#usage-and-features">Usage & Features </a></li>
-    <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#team-members">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
