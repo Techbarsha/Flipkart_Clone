@@ -1,5 +1,5 @@
 
-# Flipkart Clone Website [DEMO](https://techbarsha.github.io/flipkart_clone-fronted/)
+# Flipkart Clone Website [DEMO](https://techbarsha.github.io/Flipkart_Clone/)
 
 This repository contains a Flipkart clone website built using plain HTML and CSS. The purpose of this project is to recreate the basic functionality and design of the popular e-commerce website Flipkart.
 
