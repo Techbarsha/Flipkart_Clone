@@ -1,36 +1,22 @@
-# flipkart_clone-fronted
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Techbarsha">
-<!--     <img src="https://github.com/anubis-x-ranger/projectScreenshots/blob/main/netfliximg.jpg" alt="Logo" width="120" height="60"> -->
-    <img src="https://assets.entrepreneur.com/content/3x2/2000/20180511063849-flipkart-logo-detail-icon.jpeg"alt="YouTube" width="220" height="140">
-   
-  </a>
+# Flipkart Clone Website
 
-  
-</div>
-<br/>
-<br/>
+This repository contains a Flipkart clone website built using plain HTML and CSS. The purpose of this project is to recreate the basic functionality and design of the popular e-commerce website Flipkart.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#Prerequisites-and-installation">Pre-requisites & Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage-and-features">Usage & Features </a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+# Installation
+To run this Flipkart clone website locally, follow these steps:
+
+Clone the repository:
+git clone https://github.com/Techbarsha/flipcart_clone.git
+
+Navigate to the project directory: cd Flipkart-clone
+
+Open the index.html file in your preferred web browser.
+
+# Screenshot
+![Logo](SC.png)
+
+# Disclaimer
+This project is a clone of the Flipkart website created for learning purposes. It is not affiliated with or endorsed by Flipkart in any way. The use of the Flipkart name and branding is purely for illustrative purposes.
+
+Please note that this project is not intended for production use and may lack certain security features and optimizations found in the original Flipkart website.
