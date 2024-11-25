@@ -7,7 +7,7 @@ This repository contains a Flipkart clone website built using plain HTML and CSS
 To run this Flipkart clone website locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/Techbarsha/flipcart_clone.git
+git clone https://github.com/Techbarsha/Flipkart_Clone.git
 
 Navigate to the project directory: cd Flipkart-clone
 
